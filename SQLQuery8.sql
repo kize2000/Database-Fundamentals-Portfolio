@@ -1,3 +1,6 @@
+--From Murach's SQL Server 2016 for Developers
+--Page 189
+
 --A SELECT statement that uses a subquery in the WHERE clause
    SELECT InvoiceNumber, InvoiceDate, InvoiceTotal 
    -- columns used 
